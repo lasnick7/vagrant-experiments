@@ -1,0 +1,2 @@
+postgres: VagrantPasswordPsql
+sudo -u postgres createdb --owner=vagrant vagrant_first_db
